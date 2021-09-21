@@ -5,14 +5,16 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <h2 style="color:#A28D5B;"><em><p style="text-align:center;"><b>ENGAGE ALL 4 EXPERIENCES BELOW</h2></em></b></p>
   <br>
-  <h3><p style="text-align:center;"<b>ENVISION: 3D TOUR</h3></b></p>
+  <h3><p style="text-align:center;"<b>ENVISION: 3D/4D AR APARTMENT TOUR</h3></b></p>
   <br><br> 
-  <h3><p style="text-align:center;"<b>EXPLORE: MOBILE 4D AR TOUR</h3></b></p>
+  <h3><a href="https://alexanbahay.com/gallery/video/?utm_source=AVERtek&utm_medium=AR" onclick="getOutboundLink('https://alexanbahay.com/gallery/video/?utm_source=AVERtek&utm_medium=AR'); return false;"<b><p style="text-align:center;"> VIEW: LUXURY LIVING</h3></b></p></a> 
   <br><br>
-  <h3><a href="https://avertek.net/xr-now-apartments" onclick="getOutboundLink('https://avertek.net/xr-now-apartments'); return false;"<b><p style="text-align:center;"> VIEW: LUXURY LIVING</h3></b></p></a> 
+  <h3><a href="https://alexanbahay.com/gallery/video/?utm_source=AVERtek&utm_medium=AR" onclick="getOutboundLink('https://www.google.com/maps/place/330+N+Westlake+Ave,+Los+Angeles,+CA+90026/@34.0692391,-118.2662737,68m/data=!3m1!1e3!4m13!1m7!3m6!1s0x80c2c70f1b57b7ed:0x4945085863849337!2s330+N+Westlake+Ave,+Los+Angeles,+CA+90026!3b1!8m2!3d34.0692638!4d-118.2666679!3m4!1s0x80c2c70f1b57b7ed:0x4945085863849337!8m2!3d34.0692638!4d-118.2666679'); return false;"<b><p style="text-align:center;"> EXPLORE THE NEIGHBORHOOD</h3></b></p></a> 
   <br><br>
-  <h3><a href="https://avertek.net/special-bonus" onclick="getOutboundLink('https://avertek.net/special-bonus'); return false;"<b><p style="text-align:center;"> DISCOVER: VIP TOUR & FREE GIFT</h3></b></p></a> 
+  <h3><a href="https://alexanbahay.com/special/?utm_source=AVERtek&utm_medium=AR" onclick="getOutboundLink('https://alexanbahay.com/special/?utm_source=AVERtek&utm_medium=AR'); return false;"<b><p style="text-align:center;"> DISCOVER: VIP TOUR & FREE GIFT</h3></b></p></a>
+  <h3 style="color:#A28D5B;"><em><p style="text-align:center;"><b>50% Off All Summer Long</h2></em></b></p>
   <br><br>
+
 theme: jekyll-theme-minimal
 # Google Analytics
 google_analytics: UA-000000000-0 
